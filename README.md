@@ -19,7 +19,7 @@ A "well-known" (maybe) mentor; who makes fun [CTF](https://en.wikipedia.org/wiki
   <a href="https://twitter.com/naryal2580" target="_blank"><img alt="Twitter" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="48"></a>
   <a href="https://instagram.com/naryal2580" target="_blank"><img alt="Instagram" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="48"></a>
   <a href="https://facebook.com/n4ry4l2580" target="_blank"><img alt="Facebook" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="48"></a>
-  <a href="https://is.gd/cnl_yt" target="_blank"><img alt="YouTube" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="48"></a>
+  <a href="https://www.youtube.com/c/CaptainNickLucifer" target="_blank"><img alt="YouTube" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="48"></a>
   <a href="https://is.gd/linkedin_nick" target="_blank"><img alt="LinkedIn" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="48"></a>
   <a href="https://is.gd/call_nick" target="_blank"><img alt="Call Him" src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="48"></a>
 </div>
