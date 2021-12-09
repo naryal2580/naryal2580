@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/avatars/842764581498912778/9b45fa8d01f1ff92d74833d5253e9132.png?size=4096)"/></img>
 
-A "well-known" (maybe) mentor; who makes fun CTF challenges and, handcrafts infosec/red team engagement tools! 😃
+A "well-known" (maybe) mentor; who makes fun [CTF](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) challenges and, handcrafts offensive [infosec](https://en.wikipedia.org/wiki/Information_security)/[red team engagement](https://en.wikipedia.org/wiki/Red_team) tools! 😃
 </div>
 
 ---
