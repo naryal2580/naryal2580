@@ -7,6 +7,7 @@ A "well-known" (maybe) mentor; who makes fun CTF challenges and, handcrafts info
 </div>
 
 ## Accounts (Username: naryal2580)
+Youtube: https://is.gd/cnl_yt
 
 Discord: https://is.gd/hello_nick
 
@@ -19,3 +20,5 @@ Twitter: https://twitter.comnaryal2580
 E-Mail: <a href="mailto:naryal2580@gmail.com" target="_blank">naryal2580@gmail.com</a>
 
 Mobile: <a href="tel:+977 9847697309">+977 9847697309</a>
+
+## Link to Résumé: https://is.gd/nicks_resume
