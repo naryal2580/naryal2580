@@ -1,4 +1,4 @@
-# Captain Nick Lucifer* (स्वमी निखिलेस्वोर)
+# Captain Nick Lucifer* (स्वमी निखिलेस्वोर | @naryal2580)
 
 <div align="center">
 <img src="https://cdn.discordapp.com/avatars/842764581498912778/9b45fa8d01f1ff92d74833d5253e9132.png?size=4096)"/>
@@ -6,7 +6,7 @@
 A "well-known" (maybe) mentor; who makes fun CTF challenges and, handcrafts infosec/red team engagement tools! 😃
 </div>
 
-## Accounts (Username: naryal2580)
+## Accounts
 Youtube: https://is.gd/cnl_yt
 
 Discord: https://is.gd/hello_nick
