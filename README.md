@@ -19,6 +19,6 @@ Twitter: https://twitter.comnaryal2580
 
 E-Mail: <a href="mailto:naryal2580@gmail.com" target="_blank">naryal2580@gmail.com</a>
 
-Mobile: <a href="tel:+977 9847697309">+977 9847697309</a>
+Mobile: <a href="https://is.gd/call_nick">+977 **9847697309**</a>
 
-## Link to Résumé: https://is.gd/nicks_resume
+## Link to Résumé: https://is.gd/resume_nick
