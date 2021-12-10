@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logoColor=white&logo=rust">
   <hr width="40%">
   <div id="stats">
-    <img alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naryal2580&line_height=20&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800&custom_title=Nick's%20Github%20Stats" height=210>
-    <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naryal2580&theme=tokyonight&show_icons=true&hide=html,css,ocaml&custom_title=Most%20Used%20Languages" height=210>
+    <img alt="Nick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naryal2580&line_height=20&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800&custom_title=Nick's%20Github%20Stats" height=180>
+    <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naryal2580&theme=tokyonight&show_icons=true&hide=html,css,ocaml&custom_title=Most%20Used%20Languages" height=180>
   <br><hr width="40%">
   </div>
   <div id="contact">
